@@ -5,6 +5,8 @@ from telebot import types;
 #Токен бота
 bot = telebot.TeleBot('5930698074:AAEeCaCjnF2nkOY5saSezt5E3dQOk6xqoto');
 
+print("Бот запущен. Bruh")
+
 name = '';
 surname = '';
 age = 0;
